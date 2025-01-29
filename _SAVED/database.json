@@ -1,6 +1,20 @@
 {
 	"assets": [
 		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "65d9127"
+		},
+		{
+			"type": "char",
+			"subtype": 0,
+			"title": "Untitled",
+			"themeId": "family",
+			"id": "4000f4b"
+		},
+		{
 			"type": "sound",
 			"subtype": "soundeffect",
 			"title": "Angry Sound Effects With Drawing (mp3cut.net) (1).mp3",

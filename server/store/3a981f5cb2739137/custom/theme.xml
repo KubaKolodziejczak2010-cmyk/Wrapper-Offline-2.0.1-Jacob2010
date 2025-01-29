@@ -4446,6 +4446,12 @@
         <char id="400002010" name="Classic Caillou" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002010.png" copyable="Y">
 		<tags>family,_free,_cat:Me's Characters</tags>
 	</char>
+        <char id="400002022" name="Me Avatar Valentine's Day (2025)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002022.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
+        <char id="400002023" name="Me Avatar St. Patrick Day (2025)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002023.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
         <char id="400002011" name="Classic Me" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002011.png" copyable="Y">
 		<tags>family,_free,_cat:Bonus-Fanon Wiki Characters</tags>
 	</char>
