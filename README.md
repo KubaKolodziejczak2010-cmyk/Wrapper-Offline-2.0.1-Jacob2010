@@ -1,7 +1,7 @@
-# Wrapper: Offline
-Wrapper: Offline is a GoAnimate Server Emulator carrying on the torch of [VisualPlugin's GoAnimate Wrapper project](https://github.com/GoAnimate-Wrapper) after its shutdown in 2020. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and TTS at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the original GoAnimate Wrapper project, and there will be more to come, as Offline will continue to get additional updates in the future.
+# Wrapper: Offline 2.0.1
+Wrapper: Offline 2.0.1 is a GoAnimate Server Emulator carrying on the torch of after its shutdown in 2020. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and TTS at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the original GoAnimate Wrapper project, and there will be more to come, as Offline will continue to get additional updates in the future.
 
-[Find more info in the wiki.](https://github.com/Wrapper-Offline/Wrapper-Offline/wiki)
+[Find more info in the link.](https://github.com/KubaKolodziejczak2010-cmyk/Wrapper-Offline-2.0.1-Jacob2010)
 
 ## Running / Installation
 To start Wrapper: Offline on Windows, open wrapper-offline.exe. It'll automate just about everything for you and, well, start Wrapper: Offline.
@@ -40,6 +40,7 @@ Wrapper: Offline credits:
 | [octanuary](https://github.com/octanuary) | Project lead, Real importing, starters, API changes |
 | [GoTube](https://github.com/theBlukas) | Beta testing, Mega Comedy World 2 |
 | [Jyvee](https://github.com/Junior-Is-Great67) | Autosaving, Old VoiceForge method |
+| [Jacob2010](https://github.com/KubaKolodziejczak2010-cmyk) | Mega Comedy World 2.1|
 | [unicom](https://github.com/Crawlerop) | VoiceForge fix |
 | [Malamations](https://github.com/Mals-Stuff) | Wrapper: Offline website |
 | [Benson](https://github.com/watchbenson) | Creator of Wrapper: Offline |
