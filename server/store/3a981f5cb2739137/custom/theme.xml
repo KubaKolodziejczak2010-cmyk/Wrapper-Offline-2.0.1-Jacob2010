@@ -4449,6 +4449,18 @@
         <char id="400002022" name="Me Avatar Valentine's Day (2025)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002022.png" copyable="Y">
 		<tags>family,_free,_cat:Me's Characters</tags>
 	</char>
+        <char id="400003001" name="Demon" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003001.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
+        <char id="400003002" name="Rosie" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003002.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
+        <char id="400003003" name="Classic Rosie" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003003.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
+        <char id="400003004" name="Classic Rosie (V2)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003004.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
         <char id="400002023" name="Me Avatar St. Patrick Day (2025)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400002023.png" copyable="Y">
 		<tags>family,_free,_cat:Me's Characters</tags>
 	</char>
