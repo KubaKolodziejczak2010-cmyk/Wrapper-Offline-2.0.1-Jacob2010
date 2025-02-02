@@ -4458,6 +4458,9 @@
         <char id="400003003" name="Classic Rosie" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003003.png" copyable="Y">
 		<tags>family,_free,_cat:Me's Characters</tags>
 	</char>
+        <char id="400003005" name="Me Avatar Spring Day (2025)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003005.png" copyable="Y">
+		<tags>family,_free,_cat:Me's Characters</tags>
+	</char>
         <char id="400003004" name="Classic Rosie (V2)" cc_theme_id="family" thumbnail_url="/stock_thumbs/400003004.png" copyable="Y">
 		<tags>family,_free,_cat:Me's Characters</tags>
 	</char>
