@@ -1,5 +1,5 @@
-# Wrapper: Offline 2.0.1
-Wrapper: Offline 2.0.1 is a GoAnimate Server Emulator carrying on the torch of after its shutdown in 2020. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and TTS at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the original GoAnimate Wrapper project, and there will be more to come, as Offline will continue to get additional updates in the future.
+# Wrapper: Offline 2.0.1 (Jacob2010)
+Wrapper: Offline 2.0.1 Jacob2010 Edition is a GoAnimate Server Emulator carrying on the torch of after its shutdown in Dec 2019-2020. Unlike the original project, Offline can not be shut down by Vyond. Why? It's because everything is hosted and programmed to function locally, no internet access required, barring the initial download (and Fixed TTS Wrapper Offline Working Version Jacob2010 at this time). This project is important for archival purposes, as the ability to use this legacy editor and themes would be far trickier without it. Besides the main feature of Offline, we have also added other additional features and improvements compared to the GoAnimate Wrapper Jacob2010 project coming soon, and there will be more to come, as Offline will continue to get additional updates in the future.
 
 [Find more info in the link.](https://github.com/KubaKolodziejczak2010-cmyk/Wrapper-Offline-2.0.1-Jacob2010)
 
@@ -9,7 +9,7 @@ To start Wrapper: Offline on Windows, open wrapper-offline.exe. It'll automate j
 If you want to import videos and characters from other instances of Wrapper: Offline, open its folder and drag the "_SAVED" and "_ASSETS" folder into the Wrapper: Offline folder. If you have already made any videos or characters, this will not work. Please only import on a new install with no saved characters or videos, or take the folders in Wrapper: Offline out before dragging the old one in. If you want to import character IDs from the original LVM, you can click on CREATE A CHARACTER in the video list, scroll down to "Copy a character", and type in a character ID.
 
 ## Updates & Support
-For support, the first thing you should do is read through the FAQ, it most likely has what you want to know. Alternatively, If you can't find what you need, you can join the [Discord server](https://discord.gg/Kf7BzSw). Joining the server is recommended, as there is a whole community to help you out.
+For support, the first thing you should do is read through the FAQ, it most likely has what you want to know. Alternatively, If you can't find what you need, you can join the [My Jacob2010 Discord server](https://discord.gg/Q3spSkcg). Joining the server is recommended, as there is a whole community to help you out.
 
 ## Dependencies
 This program relies on Flash and Node.js to work properly. Luckily, they require no download, as they have already been included in Wrapper: Offline.
@@ -56,6 +56,8 @@ These are unaffiliated people that they haven't directly done anything for the p
 | Name                                            | Contribution                     |
 | ----------------------------------------------- | -------------------------------- |
 | [Vyond](https://vyond.com)                      | Creators of the themes we love   |
+| [FlashThemes](https://flashthemes.net/)         | I Love Using My FlashThemes! :D |
+| [Wrapper Online Diamond](http://wrapperonlinediamond.waterdroprio.pp.ua/)         | Jacob2010's World Props!|
 
 ## Footnotes
 [1] - See <https://www.gnu.org/philosophy/free-sw.html> for a better definition of free software.
