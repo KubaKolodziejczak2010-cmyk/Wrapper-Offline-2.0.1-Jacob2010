@@ -1,6 +1,76 @@
 {
 	"assets": [
 		{
+			"type": "prop",
+			"subtype": "video",
+			"title": "Fun Time! - Incredibox Sprunki Gameplay Walkthrough - PART 1.mp4",
+			"width": 640,
+			"height": 360,
+			"id": "bef4e06.flv"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Funbotsvg.png",
+			"ptype": "placeable",
+			"id": "bddc70b.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Funcomputersvg.png",
+			"ptype": "placeable",
+			"id": "353612f.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Graysvg (1).png",
+			"ptype": "placeable",
+			"id": "d6395b1.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Jevinsvg.png",
+			"ptype": "placeable",
+			"id": "98b8aa0.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Orensvg.png",
+			"ptype": "placeable",
+			"id": "c1a94b5.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Raddysvg.png",
+			"ptype": "placeable",
+			"id": "582b0ee.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "WendaNormal.png",
+			"ptype": "placeable",
+			"id": "32536eb.png"
+		},
+		{
+			"type": "prop",
+			"subtype": "0",
+			"title": "Bez nazwy.png",
+			"ptype": "placeable",
+			"id": "1c50b1f.png"
+		},
+		{
+			"type": "bg",
+			"subtype": "0",
+			"title": "sprunki_background__no_credit_feel_free_to_use__by_duckiess4lifee_di7cwk8-pre.jpg",
+			"id": "73eb8ea.jpg"
+		},
+		{
 			"type": "bg",
 			"subtype": "0",
 			"title": "wc_mcdonald_s_fondo_bg__by_fondos_background198_dfumyn7-fullview.jpg",
@@ -846,5 +916,13 @@
 			"id": "64f831a.mp3"
 		}
 	],
-	"movies": []
+	"movies": [
+		{
+			"id": "205cff7",
+			"duration": "00:02",
+			"date": "2025-02-03T17:58:34.595Z",
+			"title": "Untitled",
+			"sceneCount": 1
+		}
+	]
 }
