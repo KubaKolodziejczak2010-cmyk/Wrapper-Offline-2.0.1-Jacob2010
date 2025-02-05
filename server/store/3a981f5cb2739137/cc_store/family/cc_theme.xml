@@ -6246,6 +6246,18 @@
             <selection type="skeleton" state_id="sad"/>
             <selection type="upper_body" state_id="sad"/>
         </action>
+        <action id="crying_running" name="Crying Running" loop="Y" totalframe="60" enable="Y" category="Kuba's Custom Assets (2025)" is_motion="Y">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="run"/>
+            <selection type="upper_body" state_id="run"/>
+        </action>
+        <action id="crying_walking" name="Crying Walking" loop="Y" totalframe="60" enable="Y" category="Kuba's Custom Assets (2025)" is_motion="Y">
+            <selection type="facial" facial_id="head_cry"/>
+            <selection type="lower_body" state_id="walk"/>
+            <selection type="skeleton" state_id="walk"/>
+            <selection type="upper_body" state_id="walk"/>
+        </action>
         <action id="sit_sad" name="Sit - sad" loop="Y" totalframe="60" enable="Y" category="emotion" is_motion="N">
             <selection type="facial" facial_id="head_sad"/>
             <selection type="lower_body" state_id="sit"/>
@@ -6629,6 +6641,12 @@
             <selection type="lower_body" state_id="laugh"/>
             <selection type="skeleton" state_id="sit_on_floor"/>
             <selection type="upper_body" state_id="sit"/>
+        </action>
+        <action id="riding_on_bike" name="Riding On Bike" loop="Y" totalframe="23" enable="Y" category="Kuba's Custom Assets (2025)" is_motion="N">
+            <selection type="facial" facial_id="head_neutral"/>
+            <selection type="lower_body" state_id="run"/>
+            <selection type="skeleton" state_id="sit_on_floor"/>
+            <selection type="upper_body" state_id="laugh"/>
         </action>
         <action id="sit_floor_b" name="Sit on floor b" loop="Y" totalframe="23" enable="Y" category="poses" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
