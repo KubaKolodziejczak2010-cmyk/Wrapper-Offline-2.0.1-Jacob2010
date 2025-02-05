@@ -3,6 +3,10 @@
 	<fvm_meta theme_code="" is_biz="0" />
 	<theme id="custom" name="Comedy World" cc_theme_id="custom" />
 	<theme id="retro" name="Cartoon Classics" />
+        <theme id="kuba" name="Kuba's World" cc_theme_id="kuba" />
+        <theme id="bus" name="MPK Bus's World" cc_theme_id="bus" />
+        <theme id="adventuretime" name="Adventure Time" cc_theme_id="adventuretime" />
+        <theme id="samandmax" name="Sam and Max: Freelance Police" cc_theme_id="samandmax" />
 	<theme id="vietnam" name="Jungle Warfare" />
 	<theme id="monstermsh" name="Monsters Mayhem" />
 	<theme id="stick" name="Stick Figure" />

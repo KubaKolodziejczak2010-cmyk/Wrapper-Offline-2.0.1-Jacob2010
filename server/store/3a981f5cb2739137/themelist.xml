@@ -2,6 +2,8 @@
 <list version="1.0">
 	<fvm_meta theme_code="" is_biz="0" />
 	<theme id="custom" name="Comedy World" cc_theme_id="custom" />
+        <theme id="kuba" name="Kuba's World" cc_theme_id="kuba" />
+        <theme id="bus" name="MPK Bus's World" cc_theme_id="bus" />
 	<theme id="action" name="Lil' Peepz" cc_theme_id="action" />
 	<theme id="politics2" name="White Houserz" cc_theme_id="politics2" />
 	<theme id="retro" name="Cartoon Classics" cc_theme_id="retro" />
