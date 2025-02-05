@@ -1079,13 +1079,6 @@
 	],
 	"movies": [
 		{
-			"id": "1a6298e",
-			"duration": "00:02",
-			"date": "2025-02-05T14:52:20.596Z",
-			"title": "Untitled",
-			"sceneCount": 1
-		},
-		{
 			"id": "fa27e83",
 			"duration": "07:05",
 			"date": "2025-02-04T17:04:00.831Z",
